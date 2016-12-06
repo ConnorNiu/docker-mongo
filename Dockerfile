@@ -1,4 +1,4 @@
-FROM mongo:3.0.14
+FROM mongo
 
 
 # Maintainer
