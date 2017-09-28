@@ -6,5 +6,5 @@ Docker Pull Command
 
 
 ```bash
-docker pull connorniu/mongo
+docker pull songshenzong/mongo
 ```
